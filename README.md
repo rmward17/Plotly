@@ -4,3 +4,4 @@ For this project, we were tasked with creating an interactive dashboard that wou
 
 This was fun and exciting to create and luckily, we are able to deploy the dahsboard using github pages.
 
+The link to the page is here: https://rmward17.github.io/Plotly/
