@@ -1,19 +1,19 @@
-  body {
+body {
       color: black;
-  }
-  .jumbotron {
+}
+.jumbotron {
     background-image: url("bacteria_2.jpg");
     background-size: 100% 100%;
     text-align: center;
-  }
+}
   
 .topnav {
     background-color: #333;
     overflow: hidden;
-  }
+}
   
   /* Style the links inside the navigation bar */
-  .topnav a {
+.topnav a {
     float: left;
     color: aliceblue;
     text-align: center;
@@ -21,20 +21,20 @@
     text-decoration: none;
     font-size: 17px;
     
-  }
+}
   
   /* Change the color of links on hover */
-  .topnav a:hover {
+.topnav a:hover {
     background-color: aliceblue;
     color: black;
-  }
+}
 
-  #row1 {
+#row1 {
     background-color: aliceblue;
-  }
-  #row2 {
+}
+ #row2 {
       background-color: lavender;
-  }
+}
   
   
 html { 
